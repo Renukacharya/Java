@@ -1,8 +1,9 @@
+//created by Mr.Developer
 package org.jdbc;
 
 import java.sql.*;
 
-public class DemoJdbc {
+public class DBJdbc {
 	public static void main(String args[]) throws Exception
 	{
 		String url = "jdbc:mysql://Localhost:3306/class1";
